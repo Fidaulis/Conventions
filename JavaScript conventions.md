@@ -1,4 +1,4 @@
-# Planorama Javascript coding conventions
+# Javascript coding conventions
 
 ##Introduction
 This set of advices is not intended to cover all coding situations. Its main goal is to give us common guide lines to follow in order to keep our code clean, readable, scalable and maintainable.
@@ -580,17 +580,17 @@ It also provides support for the syntax of several frameworks and templating eng
     ```javascript
     // bad
     function() {
-    贩贩var name;
+    路路路路var name;
     }
 
     // bad
     function() {
-    穠ar name;
+    路var name;
     }
 
     // good
     function() {
-    贩var name;
+    路路var name;
     }
     ```
 
